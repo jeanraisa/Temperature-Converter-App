@@ -4,7 +4,7 @@ A Flutter project for converting temperatures between Celsius and Fahrenheit.
 
 ## Prototype Video Recording
 
-[The video Link](https://drive.google.com/file/d/1085weuz9CQEhOkhVFdpafCXOWLnPcgRl/view?usp=sharing "Drive Lnk to Prototype video")
+[The video Link](https://drive.google.com/file/d/1zNXhYz6-44iRMX76BTnjYnyirMGpCh5u/view?usp=sharing)
 
 
 ## Features
@@ -36,7 +36,3 @@ This project uses the core Flutter framework and does not require any additional
 ## Contributing
 
 Contributions to improve the Temperature Converter app are welcome. Please feel free to submit issues and pull requests.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
